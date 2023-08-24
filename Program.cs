@@ -14,7 +14,7 @@
 
 //AggregateProducts();
 
-//PagingProducts();
+PagingProducts();
 
 //CustomExtensionMethods();
 
